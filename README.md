@@ -6,7 +6,7 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-10-12. Continuously updated.
+> Star counts verified via GitHub API on 2026-10-20. Continuously updated.
 
 ## 条目
 
@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：爆款混剪接单——用这 10 个 skill（viral hooks、SaaS launch、前后对比等）批量产电影级短视频，接品牌产品视频单。
 
-**来源**：[rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) · ⭐410 · 更新于 2026-08-11
+**来源**：[rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) · ⭐424 · 更新于 2026-10-20
 
 ### rediumvex/viral-hooks-skill
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：剪辑单/代运营加"开头诊断"增值服务按条收费。
 
-**来源**：[rediumvex/viral-hooks-skill](https://github.com/rediumvex/viral-hooks-skill) · ⭐101 · 更新于 2026-05-05
+**来源**：[rediumvex/viral-hooks-skill](https://github.com/rediumvex/viral-hooks-skill) · ⭐108 · 更新于 2026-10-19
 
 ### shixinzhang/tiktok-viral-hooks
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：照模板日更起号接广告，或整理成钩子题材库卖给剪辑/编剧从业者。
 
-**来源**：[shixinzhang/tiktok-viral-hooks](https://github.com/shixinzhang/tiktok-viral-hooks) · ⭐33 · 更新于 2026-10-12
+**来源**：[shixinzhang/tiktok-viral-hooks](https://github.com/shixinzhang/tiktok-viral-hooks) · ⭐36 · 更新于 2026-10-19
 
 ### artemnovitckii/content-skills
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：把 hook 诊断接到脚本代做流程里，做成"开头体检报告"差异化报价。
 
-**来源**：[artemnovitckii/content-skills](https://github.com/artemnovitckii/content-skills) · ⭐102 · 更新于 2026-06-20
+**来源**：[artemnovitckii/content-skills](https://github.com/artemnovitckii/content-skills) · ⭐107 · 更新于 2026-10-18
 
 ### ehui1226/hookmeter-jev
 
@@ -73,7 +73,7 @@
 
 **怎么用它搞钱**：发帖前全测一遍提点击率，或打包进自媒体培训课卖课。
 
-**来源**：[ehui1226/hookmeter-jev](https://github.com/ehui1226/hookmeter-jev) · ⭐22 · 更新于 2026-09-21
+**来源**：[ehui1226/hookmeter-jev](https://github.com/ehui1226/hookmeter-jev) · ⭐22 · 更新于 2026-10-01
 
 ### X 实战帖 · 核心提炼
 
@@ -132,12 +132,69 @@
 
 **来源**：[@alexolim_](https://x.com/alexolim_/status/2109049029355004159)
 
+### @CaijingView（财经世界观）：7 个提示词把 Instagram 内容从无聊变爆款（30 天 220 万观看）
+
+**核心提炼**
+- 总纲：30 天 220 万次观看，无相机拍摄，全靠"复制（跑通的内容）+ AI"流程——证明钩子/脚本可以用 prompt 批量生产
+- 7 个 prompt 组成一条钩子生产线：①开场钩子生成器（喂主题+平台，要 10 个"让人停下滑动手指"的钩子，禁套话鸡汤）②找非显而易见的内容角度（在噪音中杀出重围）③不露脸内容配方 ④紧凑脚本生成（去开场白、零废话）⑤反套路改写（去掉可预测表达和软弱框架）⑥留存向编辑（提完读率、加节奏变化）⑦权威感终稿润色
+- 方法论：钩子 prompt 里必须写明"平台+要避免什么"，越具体越好用；把"找角度/写钩子/改脚本/提留存"拆成独立 prompt，比一个大 prompt 更可控
+- 如实说明：30 天 220 万为作者自述数据，未经第三方核验；7 个 prompt 的完整原文在帖子评论区线程内
+
+**适用场景**：用 AI 批量做钩子/短视频脚本的内容运营、矩阵号操盘手。
+
+**怎么用它搞钱**：把 7 个 prompt 打包成"AI 钩子生产线"卖给内容创作者，或接矩阵号代运营的钩子外包。
+
+**来源**：[@CaijingView](https://x.com/CaijingView/status/2112018906672189593) · 2026-10-19（原帖经 fxtwitter API 核验真实）
+
+### @publisherinabox：Meta Watchbait 警示——承诺了不兑现的钩子会降权扣收益
+
+**核心提炼**
+- 反常识：钩子写得太"勾人"反而被罚——Meta Watchbait 规则下，钩子承诺了、视频没兑现的内容会被降分发、扣收益
+- 钩子禁忌①信息断层式（withholding information）：故意制造信息断层逼人看完，如"这种日常食材可能毁了你的晚餐，看到最后才揭晓"；正确做法：先点明关键信息，再用"如何避免失误/做对步骤"给观众留下的理由
+- 钩子禁忌②无必要夸张（sensationalism）："这个厨房技巧将永远改变你的人生"类；正确做法：说具体收益，不说永恒改变
+- 方法论：钩子=承诺，承诺要在视频前 30 秒兑现；用"信息前置+过程留白"代替"信息断层"
+- 如实说明：原帖列出三条 Meta Watchbait 判定标准，本条目收录其中两条已核验细节，第三条见原帖
+
+**适用场景**：做 Facebook 视频投放、靠平台收益的内容出版者，写钩子前的避坑自查。
+
+**怎么用它搞钱**：把 Watchbait 自查清单做成发帖前检查表，卖给做 FB Reels 投放的团队，或接"降权诊断"单。
+
+**来源**：[@publisherinabox](https://x.com/publisherinabox/status/2112258380765024442) · 2026-10-20
+
+### @mingyuanai（明远｜AI商业架构师）：drama ads 钩子三要素——猛、反转、报复感
+
+**核心提炼**
+- 行业信号：Seedance 2.5 级别的模型已经能批量产出"整段剧情广告"（drama ads），制作门槛正在消失
+- 钩子公式：猛 + 反转 + 报复感——借短剧逻辑做广告开头，本质是注意力生意
+- 关键判断：工具抹平的是"会不会做视频"，抹不平的是"懂不懂用户情绪"；情绪抓得住，模型就是加速器
+- 对钩子的启示：钩子拼的不再是制作精度，而是对用户情绪（爽点/复仇感/反转期待）的理解深度
+
+**适用场景**：剧情类短视频广告、AI 剧情广告投放创意。
+
+**怎么用它搞钱**：用 Seedance 2.5 批量做 drama ads 钩子 A/B 测试，接品牌效果广告的创意外包，按转化收费。
+
+**来源**：[@mingyuanai](https://x.com/mingyuanai/status/2112192145272479985) · 2026-10-19
+
+### @wangzaimedia：抖音爆款开头的共同公式=危言耸听式反转断言
+
+**核心提炼**
+- 案例拆解：密集刷抖音开头后发现爆款共性——"越认真越失败""中小教育出文盲""90%的人都把 AI 用错了""垂直正在杀死你的自媒体"
+- 公式提炼：反常识断言 + 危言耸听语气——先否定观众既有认知（越努力越错/你全用错了），制造认知冲突逼人停留
+- 为什么有效：断言越绝对、越反直觉，观众越想验证"他凭什么这么说"，停留带来完播，完播带来推流
+- 边界提醒：断言必须在视频里自圆其说，否则就是标题党伤号；适合知识/观点类口播
+
+**适用场景**：知识/口播类短视频开头写作，理解反转断言为何有效。
+
+**怎么用它搞钱**：给知识博主批量写"反转断言式"开头按条收费，或做成开头模板包卖给口播创作者。
+
+**来源**：[@wangzaimedia](https://x.com/wangzaimedia/status/2112288008548569409) · 2026-10-20
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
 - GitHub 项目条目格式：核心提炼（解决什么问题 / 核心用法 3–5 步：输入→输出、关键步骤 / 什么时候用 / 常见坑）+ 适用场景（适合谁）+ 一条「怎么用它搞钱」+ 来源（项目链接只作来源；star 数与更新时间经 GitHub API 核验）
 - X 实战帖条目格式：核心提炼（3-8 条要点，不点链接也能拿走干货）+ 适用场景一句话 + 一条「怎么用它搞钱」+ 原帖链接只做署名出处
-- Star 数为 2026-10-12 经 GitHub API 核验；持续收录中
+- Star 数为 2026-10-20 经 GitHub API 核验；持续收录中
 - 去重：同一项目只收录一次，不堆 raw 链接
 
 ## 相关分类
@@ -166,3 +223,4 @@
 - 2026-10-12：首轮早档搜集：X 新增 3 条实战帖（@joshfpocock 13 个 skills 含 26 钩子公式、@joshfpocock 11 个 skills 含 21 钩子公式、@alexolim_ 334+ 验证钩子模板；@Chel2336 漫剧 63 讲已收录于编剧库，此处去重）、GitHub 新增 4 个项目（rediumvex/viral-hooks-skill、shixinzhang/tiktok-viral-hooks、artemnovitckii/content-skills、ehui1226/hookmeter-jev）；全库 star 经 API 核验更新
 - 2026-10-12：GitHub 项目条目升级（kk 指令）：5 个表格行按铁律改写为核心提炼小节（解决问题 / 核心用法 3–5 步 / 什么时候用 / 常见坑 + 适用场景 + 怎么用它搞钱 + 来源），star 数与更新时间经 API 核验；新项目搜索无达标（宁缺毋滥，未补）
 - 2026-10-12：X 实战帖整改（kk 指令）：3 条 X 条目全部按"提炼入库"标准重写为核心提炼小节（要点+适用场景+搞钱+出处），不再是标题+链接
+- 2026-10-20：早档搜集（优先队列第 9 天）：X 新增 4 条实战帖（@CaijingView 7 提示词钩子生产线 30 天 220 万观看、@publisherinabox Meta Watchbait 钩子三禁忌、@mingyuanai drama ads 钩子三要素猛/反转/报复感、@wangzaimedia 危言耸听式反转断言公式；@dontbesilent2025 账号已不存在无法核查；第 2/4 组关键词无合格命中，未凑数）；GitHub 关键词 viral hooks / video hook prompt / tiktok hooks 无新增（已入库去重、其余 <20★ 或类目不合，宁缺毋滥）；5 个 GitHub 条目 star 经 API 核验刷新（424/108/36/107/22）
